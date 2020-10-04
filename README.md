@@ -1,12 +1,5 @@
 # STONE-PAPER-SCISSORS-GAME
-
-# name ChaitanyaGothwal for hactober fest
-
-
 Stone paper scissors game developed by CHAITANYA GOTHWAL
-
-
-
 #python 3.7.1
 import random as rd
 import time as tm
