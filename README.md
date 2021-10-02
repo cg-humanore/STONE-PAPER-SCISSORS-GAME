@@ -1,7 +1,17 @@
-HACKTOBERFEST 2021
- steps:
- star this repo
- fork this repo
- add your file
- create pull request
- 
+# HACKTOBERFEST 2021 
+### You can contribute in this repository by the following ways 
+``` 
+Star this repository
+``` 
+``` 
+fork this repository 
+``` 
+``` 
+add your edits 
+``` 
+``` 
+create pull request 
+``` 
+<br> 
+
+## #happyhacking
